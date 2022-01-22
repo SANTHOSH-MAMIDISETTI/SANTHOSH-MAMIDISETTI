@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java; Python**
 
-- 📫 How to reach me **mamidisettisanthosh2004@gmail.com**
+- 📫 How to reach me through mail [here](mailto:mamidisettisanthosh2004@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
