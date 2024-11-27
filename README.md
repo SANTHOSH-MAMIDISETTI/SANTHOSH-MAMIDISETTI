@@ -2,7 +2,7 @@
 # I am Santhosh Mamidisetti
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- currently learning **Java & Python**
+- currently learning **Whatever i can😅**
 - ASE 2021-25 BATCH
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh-mamidisetti&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh-mamidisetti" /> </p>
 
